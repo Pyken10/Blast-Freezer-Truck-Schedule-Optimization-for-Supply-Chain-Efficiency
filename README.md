@@ -13,3 +13,9 @@ Determined the optimal scheduling of 25-30 trucks weekly, enhancing resource eff
 
 ### Conclusion
 The project exemplifies the effective use of analytics in operational efficiency, providing a replicable model for logistics optimization in the food supply chain sector.
+
+### Distribution of Freezing Hours in Blast Freezer Operations
+![](Freezing_hours.png)
+
+### Weekly Total Processing Time Distribution in Blast Freezing
+![](Tot_processing_time.png)
